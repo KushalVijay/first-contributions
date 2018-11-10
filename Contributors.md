@@ -7,6 +7,7 @@
 - [Lautaro Lobo](https://github.com/LautaroLobo12)
 - [Nomit Pahuja](https://github.com/jaymcole/nomitpahuja)
 - [Nikil99](https://github.com/Nikil99)
+- [Jinyoung JJ Lim](https://github.com/jlim2)
 Elizabeth
 Jeremy Sipple
 - [Paras Lakhani](https://github.com/paras112)
